@@ -1,1 +1,1 @@
---!strict
+--!nocheck
